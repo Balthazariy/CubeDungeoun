@@ -1,0 +1,9 @@
+.idea/
+.vs/
+Library/
+obj/
+Assembly-CSharp.csproj
+CubeDungeoun.sln
+.vscode/
+Logs/
+.gitattributes
